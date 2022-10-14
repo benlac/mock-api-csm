@@ -1,0 +1,124 @@
+{
+  "creators": [
+    {
+      "id": 1,
+      "name": "cocadmin",
+      "contracts": [
+        {
+          "id": 1,
+          "status": "available",
+          "comment": "I'm a comment",
+          "revealed": true,
+          "emailStatus": "scheduled",
+          "programs": [
+            {
+              "id": 1,
+              "platform": "fb",
+              "title": "Reaction Time",
+              "type": "Facebook Long"
+            },
+            {
+              "id": 2,
+              "platform": "snapchat",
+              "title": "Reaction Time",
+              "type": "Snapchat"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "status": "unavailable",
+          "comment": "this is a good month",
+          "revealed": false,
+          "emailStatus": "sent",
+          "programs": [
+            {
+              "id": 1,
+              "platform": "fb",
+              "title": "Reaction Time",
+              "type": "Facebook Long"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "John Doe",
+      "contracts": [
+        {
+          "id": 1,
+          "status": "available",
+          "comment": "",
+          "revealed": true,
+          "emailStatus": "sent",
+          "programs": [
+            {
+              "id": 1,
+              "platform": "fb",
+              "title": "Reaction Time",
+              "type": "Facebook Long"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "MrBeast",
+      "contracts": [
+        {
+          "id": 1,
+          "status": "available",
+          "comment": "this is a good month",
+          "revealed": false,
+          "emailStatus": "none",
+          "programs": [
+            {
+              "id": 1,
+              "platform": "fb",
+              "title": "Reaction Time",
+              "type": "Facebook Long"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "status": "unavailable",
+          "comment": "well done ! It was an amazing month",
+          "revealed": false,
+          "emailStatus": "sent",
+          "programs": [
+            {
+              "id": 1,
+              "platform": "fb",
+              "title": "Reaction Time",
+              "type": "Facebook Long"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Toto",
+      "contracts": [
+        {
+          "id": 1,
+          "status": "available",
+          "comment": "this is a good month",
+          "revealed": true,
+          "emailStatus": "scheduled",
+          "programs": [
+            {
+              "id": 1,
+              "platform": "fb",
+              "title": "Reaction Time",
+              "type": "Facebook Long"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

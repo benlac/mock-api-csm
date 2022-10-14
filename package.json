@@ -1,0 +1,10 @@
+{
+  "name": "mock-api-csm",
+  "version": "1.0.0",
+  "scripts": {
+    "server": "node server.js"
+  },
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
